@@ -1,0 +1,21 @@
+
+img {
+import logo from "./images/logotipo.png"
+import github from "./images/GitHub Logo.png"
+import twitter from "./images/Twitter Logo.png"
+import instagram from "./images/Frame.png"
+import herointro from "./images/Hero.png"
+import characters from "./images/Characters.png"
+import brands from "./images/Brands.png"
+import avatar1 from "./images/Group 71.png"
+import bidButton from "./images/Frame 7.png"
+import avatar2 from "./images/Group 72 (1).png"
+import spline1 from "./images/Spline 17.png"
+import spline2 from "./images/Spline 18.png"
+import spline3 from "./images/Spline 13.png"
+import arrowleft from "./images/arrow-left.png"
+import arrowright from "./images/Frame 74.png"
+import communities from "./images/Frame 68.png"
+import discord from "./images/icon-discord.svg"
+import divider from "./images/Divider.png"
+}

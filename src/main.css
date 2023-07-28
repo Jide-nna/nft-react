@@ -1,0 +1,8 @@
+
+h{
+    background: var(--gradient-linear-primary, linear-gradient(273deg, #FF4060 0%, #FF81C5 52.08%, #6D5EEA 100%));
+}
+.myAnimation{
+    animation-name: myAnimation;
+    animation-duration: 5s;
+}
